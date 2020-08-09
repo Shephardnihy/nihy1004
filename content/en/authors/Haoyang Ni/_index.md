@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a 2nd-year graduate student at University of Illinois, Urbana-Champaign. My main interest is characterizing and explaining physical properties of various kinds of materials at atomic scale. For now, I am working in Prof. Jian-Min Zuo's research group learning electron microscopy related techniques.
+bio: 
 
 interests:
 - Electron Mircoscopy and Diffraction
@@ -55,3 +55,5 @@ email: ""
 user_groups:
 
 ---
+
+I am currently a 2nd-year graduate student at University of Illinois, Urbana-Champaign. My main interest is characterizing and explaining physical properties of various kinds of materials at atomic scale. For now, I am working in Prof. Jian-Min Zuo's research group learning electron microscopy related techniques.
