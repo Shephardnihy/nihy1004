@@ -17,8 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
-  description = "Python is used for my EM data and image analysis"
+  name = "Data Analysis"
+  description = "Python and Gatan Digital Micrograph is used for my EM data, image analysis and microscope control"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "far"
+  name = "Simulation"
+  description = "Familiar with a variety of simulation from first-principles to High-resolution image and electron diffraction"
   
 [[feature]]
   icon = "camera-retro"
