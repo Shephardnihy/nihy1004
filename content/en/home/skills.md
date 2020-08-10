@@ -22,7 +22,7 @@ subtitle = ""
 
 [[feature]]
   icon = "terminal"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Simulation"
   description = "Familiar with a variety of simulation from first-principles to High-resolution image and electron diffraction"
   
